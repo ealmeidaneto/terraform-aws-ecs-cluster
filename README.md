@@ -1,5 +1,4 @@
-# AWS Terraform module for ECS Cluster
-
+# Terraform ECS Cluster Module
 ## Requirements
 
 | Name | Version |
@@ -29,4 +28,3 @@
 |------|-------------|
 | cluster\_name\_arn | The Amazon Resource Name (ARN) that identifies the cluster |
 | cluster\_name\_id | The Amazon Resource Name (ARN) that identifies the cluster |
-
